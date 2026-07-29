@@ -1,0 +1,15 @@
+
+# Backend
+target/
+.env
+
+# Frontend
+QueueSphere-frontend/node_modules/
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
